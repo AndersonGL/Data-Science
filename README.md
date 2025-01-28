@@ -1,11 +1,15 @@
 # Data-Science
 
-* **Instalação do Anaconda**
+
 * **Instação do Notebook Jupiter**
-* **Instalação da Biblioteca Pandas** 
+* **Ide VSCode ou Google Colab**
+* **Instalação da Biblioteca Pandas**
+* **Instalação da Biblioteca Matplotlib**
+* **Instalação da Biblioteca Numpay** 
+
+* **Filtrando dados de planilhas csv utilizando a plataforma kangle*
+* Dados Fifa , Dados de Imobiliaria.
 
 
 
 
-
-### Estudos pela Plataforma Udemy
