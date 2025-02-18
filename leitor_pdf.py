@@ -1,9 +1,12 @@
 
+
+
+
 import PyPDF2   # Biblioteca python para leitura de pdf
 
 # definir caminho do arquivo pdf
 
-caminho_arquivo = r"C:\\Users\\Anderson G Lignelli\\Downloads\\Data-Science\\anderson_gouveia_lignelli(DFE).pdf"
+caminho_arquivo = r"C:\Users\Anderson G Lignelli\Downloads\cv_anderson_gouveia_lignelli(ad).pdf"
 
 
 
@@ -22,6 +25,14 @@ with open (caminho_arquivo,"rb") as arquivo:
 
 print("Conteudo do arquivo PDF")
 print(texto)
+
+
+
+
+        
+        
+
+ 
 
 
   
