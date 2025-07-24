@@ -1,4 +1,4 @@
-# 📊 Estudos em Data Science
+# 📊 Estudos em Data Science - Prof° André Lacono
 
 Este repositório tem como objetivo documentar e compartilhar os aprendizados e práticas realizados durante meus estudos em **Ciência de Dados**, utilizando ferramentas como Jupyter Notebook, VSCode, Google Colab e bibliotecas fundamentais do ecossistema Python.
 
